@@ -19,6 +19,7 @@ header{
 	background: rgb(141, 141, 141);
 	grid-template-columns: 10% 80% 10%;
 }
+
 .articulos{
 	grid-column: 2/3;
 }
