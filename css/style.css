@@ -19,7 +19,9 @@ header{
 	background: rgb(141, 141, 141);
 	grid-template-columns: 10% 80% 10%;
 }
-
+h1{
+	color:rgb(30, 130, 197);	
+}
 .articulos{
 	grid-column: 2/3;                                                                                                
 	display: flex;
